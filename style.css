@@ -1,4 +1,5 @@
 
+
 ul.a{
     background-color: rgba(12, 6, 6, 0.61);
     padding: 3.1px;
@@ -73,6 +74,7 @@ div#content div{
 div#content div.leftbox{
 background-color: rgba(12, 12, 20, 0.384);
 color: white;
+bottom: 15px;
 }
 
 div#content div h1, p, iframe{
