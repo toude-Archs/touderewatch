@@ -1,4 +1,9 @@
 
+ul.a{
+    background-color: rgba(12, 6, 6, 0.61);
+    padding: 2px;
+}
+
 body.wus{
     background: url(https://dl.malwarewatch.org/wallpapers/Polar%20Night.jpg);
 }
@@ -38,6 +43,7 @@ nav.menu-nav ul li.acl:hover a{
     color: red;
     background-color: white;
     transition: 0.5s all;
+    padding: 1px;
 }
 
 div.tesw{
