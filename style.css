@@ -1,0 +1,133 @@
+
+ul.a{
+    background-color: rgba(12, 6, 6, 0.61);
+    padding: 3.1px;
+}
+
+body.wus{
+    background: url(https://dl.malwarewatch.org/wallpapers/Polar%20Night.jpg);
+}
+
+p.tex{
+    font-size: 20px;
+}
+
+p.sus3{
+    color: white;
+    font-size: 20px;
+}
+
+h1.sus{
+    color: white;
+}
+
+body.wsus{
+    background: url(https://dl.malwarewatch.org/wallpapers/Polar%20Night.jpg);
+}
+
+
+body.gsus{
+    background: url(https://dl.malwarewatch.org/wallpapers/Aurora.jpg);
+ }
+
+
+ nav.menu-nav ul li.acl a{
+    color: white;
+    background-color: rgba(14, 14, 51, 0);
+    text-decoration: none;
+    font-size: 22px;
+    padding: 9px;
+}
+
+nav.menu-nav ul li.acl:hover a{
+    color: red;
+    background-color: white;
+    transition: 0.5s all;
+    padding: 1px;
+}
+
+div.tesw{
+    background-color: rgba(0, 0, 0, 0.356);
+    color: white;
+    
+}
+
+h1.sus2{
+    color: white;
+}
+
+p.sus{
+    color: white;
+}
+
+body{
+    background: url(https://dl.malwarewatch.org/wallpapers/Mountain.png);
+ }
+ 
+
+div#content div{
+    display: inline-block;;
+    width: 48%;
+}
+
+div#content div.leftbox{
+background-color: rgba(12, 12, 20, 0.384);
+color: white;
+}
+
+div#content div h1, p, iframe{
+    margin: 35px
+}
+
+div#content div.rightbox{
+    background-color: rgba(12, 11, 11, 0.507);
+    color: white;
+}
+
+nav.menu-nav ul li.acl{
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav.menu-nav ul li.acl a{
+    color: white;
+    background-color: rgba(14, 14, 51, 0);
+    text-decoration: none;
+    font-size: 22px;
+    padding: 9px;
+}
+
+nav.menu-nav ul li.acl:hover a{
+    color: red;
+    background-color: white;
+    transition: 0.5s all;
+}
+
+footer{
+    background-color: rgba(0, 0, 255, 0);
+}
+
+/* p.warning{
+     color:white; 
+}
+
+p.rtc{
+    color:white;
+}
+
+h1.body{
+    color: white;
+}
+
+h1.body{
+    font-size: 85px;
+    padding-left: 300px;
+}
+
+body{
+   background: url(https://dl.malwarewatch.org/wallpapers/Mountain.png);
+}
+
+a{
+    color: red;
+} */
